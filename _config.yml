@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yu Lin | 林煜"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Yu Lin"
 description              : &description "Personal academic website of Yu Lin."   # Update this with a general description of your site, this is the default if not overridden by a page
