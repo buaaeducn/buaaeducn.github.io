@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Yu Lin 林煜 ——homepage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am an undergraduate student at the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/) (2023.06 – Present), majoring in Intelligent Transportation Engineering.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research spans the tasks of autonomous driving perception and artificial intelligence ethics. Specifically, I focus on Bird's-Eye-View (BEV) architectures (such as BEVFormer and SparseBEV) for accurate perception on nuScenes and UAV datasets, as well as AI value alignment aimed at evaluating and improving LLM moral performance and Agent architectures.
+
+**Fields:** Intelligent Transportation Engineering, Autonomous Driving Perception, AI Ethics & Alignment
+
+**Topics:** Bird's-Eye-View (BEV) Architectures, Deep Learning Models, AI Value Alignment, LLM Moral Performance, Agent Architectures
 
 A data-driven personal website
 ======
