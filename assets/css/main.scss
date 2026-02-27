@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- 下面是你自定义的导航栏字体大小 --- */
+
+/* 1. 修改右上角导航菜单（Projects, Awards等）的字体大小 */
+.greedy-nav a {
+  font-size: 1.1rem !important; /* 默认通常是 1rem 左右，你可以改成 1.1rem 或 18px */
+}
+
+/* 2. (可选) 修改左上角网站标题（你的名字）的字体大小 */
+.greedy-nav .site-title {
+  font-size: 1.2rem !important; /* 如果你觉得左上角的名字太小，可以改这个数值 */
+}
