@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/) (2023.06 – Present), majoring in Intelligent Transportation Engineering.
+Yu Lin is an undergraduate student at the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/) (2023.06 – Present), majoring in Intelligent Transportation Engineering.
 
 
 **Fields:** Intelligent Transportation Engineering, Autonomous Driving Perception
