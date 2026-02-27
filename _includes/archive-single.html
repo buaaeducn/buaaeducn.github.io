@@ -18,7 +18,7 @@
       
       {% if teaser %}
         <div class="archive__item-teaser" style="flex: 0 0 45%; max-width: 45%; margin: 0;">
-          <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="Project Image" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+          <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="Project Image" style="width: 100%; border-radius: 6px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); border: 1px solid #eaeaea;">
         </div>
       {% endif %}
 
