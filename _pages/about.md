@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yu Lin | 林煜"
 author_profile: true
 redirect_from: 
   - /about/
