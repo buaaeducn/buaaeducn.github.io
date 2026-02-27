@@ -21,22 +21,19 @@ Secondary Email: [1832541406@qq.com](mailto:1832541406@qq.com)
 
 ---
 
-## Publications {#publications}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Projects & Portfolio {#portfolio}
+<h2 id="projects" style="padding-top: 80px; margin-top: -80px;">Projects</h2>
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Talks & Presentations {#talks}
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-## Teaching {#teaching}
+<h2 id="teaching" style="padding-top: 80px; margin-top: -80px;">Teaching Experience</h2>
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2 id="awards" style="padding-top: 80px; margin-top: -80px;">Awards</h2>
+* **Third Prize**, The 34th "Feng Ru Cup" Competition (Creativity Track), Beihang University, *2025*
+* **University-level Merit Student**, Beihang University (Academic Year 2024-2025)
+* **First-Prize Scholarship for Freshmen**, School of Transportation Science and Engineering (Rank: 10/135), *2024*
+* **Third Prize**, The Chinese Mathematics Competitions for College Students (CMC), *2024*
+* **Third Prize**, Physics Competition for College Students in Partial Regions of China, *2024*
