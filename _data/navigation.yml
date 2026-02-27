@@ -9,14 +9,14 @@
 
 # main links
 main:
-  - title: "Teaching Experience"
-    url: /#teaching  
-    
-    - title: "Projects"
+  - title: "Projects"
     url: /#projects
+
+  - title: "Teaching Experience"
+    url: /#teaching
 
   - title: "Awards"
     url: /#awards
-    
+
   - title: "CV"
     url: /cv/
