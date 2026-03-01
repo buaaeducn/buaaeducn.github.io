@@ -1,7 +1,7 @@
 ---
 title: "UAVFormer:Robust UAV 3D Object Detection via Camera-Aware Sampling"
 collection: portfolio
-weight: 1
+weight: 3
 permalink: /portfolio/bev-autonomous-driving
 header:
   teaser: "uavformer.png" # Please ensure the image is placed in the images/ directory
