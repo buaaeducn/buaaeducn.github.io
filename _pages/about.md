@@ -22,12 +22,16 @@ Secondary Email: [1832541406@qq.com](mailto:1832541406@qq.com)
 ---
 
 <h2 id="education" style="padding-top: 80px; margin-top: -80px;">Education</h2>
+
+<img src="/images/buaa-logo.png" alt="Beihang University Logo" style="float: right; width: 120px; margin-left: 20px; margin-bottom: 10px;">
+
 * **B.E. Candidate in Intelligent Transportation Engineering**, Beihang University, *2023.06 – Present*
-* School of Transportation Science and Engineering
+  * School of Transportation Science and Engineering
 * **GPA & Ranking:**
   * Junior Year: 3.79 (Rank: **1**/42)
   * Sophomore Year: 3.77 (Rank: **1**/42)
   * Freshman Year: 3.73 (Rank: 2/42)
+<div style="clear: both;"></div>
 
 ---
 
