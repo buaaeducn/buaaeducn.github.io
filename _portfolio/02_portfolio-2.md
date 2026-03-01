@@ -1,6 +1,7 @@
 ---
 title: "Map Construction and Localization Based on A-LOAM LiDAR SLAM"
 collection: portfolio
+weight: 2
 permalink: /portfolio/bev-autonomous-driving
 header:
   teaser: "alom.png" # Please ensure the image is placed in the images/ directory

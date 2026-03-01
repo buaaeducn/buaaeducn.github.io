@@ -1,6 +1,7 @@
 ---
 title: "Autonomous Navigation System and Applications for Micro Drones in Unknown Environments"
 collection: portfolio
+weight: 3
 permalink: /portfolio/bev-autonomous-driving
 header:
   teaser: "uav.png" # Please ensure the image is placed in the images/ directory
