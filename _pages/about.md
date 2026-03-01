@@ -23,11 +23,11 @@ Secondary Email: [1832541406@qq.com](mailto:1832541406@qq.com)
 
 <h2 id="education" style="padding-top: 80px; margin-top: -80px;">Education</h2>
 * **B.E. Candidate in Intelligent Transportation Engineering**, Beihang University, *2023.06 – Present*
-  * School of Transportation Science and Engineering
-  * **GPA & Ranking:**
-    * Junior Year: 3.79 (Rank: **1**/42)
-    * Sophomore Year: 3.77 (Rank: **1**/42)
-    * Freshman Year: 3.73 (Rank: 2/42)
+* School of Transportation Science and Engineering
+* **GPA & Ranking:**
+  * Junior Year: 3.79 (Rank: **1**/42)
+  * Sophomore Year: 3.77 (Rank: **1**/42)
+  * Freshman Year: 3.73 (Rank: 2/42)
 
 ---
 
@@ -38,8 +38,10 @@ Secondary Email: [1832541406@qq.com](mailto:1832541406@qq.com)
 ---
 
 <h2 id="awards" style="padding-top: 80px; margin-top: -80px;">Awards</h2>
-* **Third Prize**, The 34th "Feng Ru Cup" Competition (Creativity Track), Beihang University, *2025*
 * **University-level Merit Student**, Beihang University (Academic Year 2024-2025)
+* **Third Prize**, The 35th "Feng Ru Cup" Competition (Main Track), Beihang University, *2025*
+* **Second Prize**, The 5th Beihang "Yingzhijie" Transportation Science and Technology Competition, *2025*
+* **Third Prize**, The 34th "Feng Ru Cup" Competition (Creativity Track), Beihang University, *2025*
 * **First-Prize Scholarship for Freshmen**, School of Transportation Science and Engineering (Rank: 10/135), *2024*
 * **Third Prize**, The Chinese Mathematics Competitions for College Students (CMC), *2024*
 * **Third Prize**, Physics Competition for College Students in Partial Regions of China, *2024*
