@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Navigation System and Applications for Micro Drones in Unknown Environments"
+title: "Autonomous Navigation System and Applications for Micro Drones in Unknown Environments[2025]"
 collection: portfolio
 weight: 1
 permalink: 

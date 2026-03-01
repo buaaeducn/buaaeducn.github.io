@@ -1,5 +1,5 @@
 ---
-title: "Map Construction and Localization Based on A-LOAM LiDAR SLAM"
+title: "Map Construction and Localization Based on A-LOAM LiDAR SLAM[2025]"
 collection: portfolio
 weight: 2
 permalink: 

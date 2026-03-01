@@ -1,5 +1,5 @@
 ---
-title: "Design of a New Stratospheric Dual Body Floating System"
+title: "Design of a New Stratospheric Dual Body Floating System[2023]"
 collection: portfolio
 weight: 4
 permalink: 

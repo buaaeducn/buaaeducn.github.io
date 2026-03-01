@@ -1,5 +1,5 @@
 ---
-title: "UAVFormer:Robust UAV 3D Object Detection via Camera-Aware Sampling"
+title: "UAVFormer:Robust UAV 3D Object Detection via Camera-Aware Sampling[2026]"
 collection: portfolio
 weight: 3
 permalink: 
