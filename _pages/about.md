@@ -14,10 +14,9 @@ Yu Lin is an undergraduate student at the [School of Transportation Science and 
 
 **Topics:** Bird's-Eye-View (BEV) Architectures, Agent Architectures
 
-Primary Email: [23374261@buaa.edu.cn](mailto:23374261@buaa.edu.cn)
+**Email:** [23374261@buaa.edu.cn](mailto:23374261@buaa.edu.cn)
 
-Secondary Email: [1832541406@qq.com](mailto:1832541406@qq.com)
-
+**CSDN Blog:** [Yu Lin's CSDN Homepage](https://blog.csdn.net/Linyu13467?type=blog)
 
 ---
 
