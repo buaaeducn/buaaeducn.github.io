@@ -5,5 +5,5 @@ weight: 1
 permalink: 
 header:
   teaser: "uav.png" # Please ensure the image is placed in the images/ directory
-excerpt: "<strong>Advisor:</strong> Prof. Jianshan Zhou <br/><br/><strong>Project Details:</strong> We developed a bio-inspired autonomous navigation framework for small UAVs in GPS-denied enclosed spaces. The core innovation lies in integrating the RatSLAM algorithm with spatial memory matrices to achieve robust spatial cognition. Additionally, we constructed a custom flight dataset through autonomous exploration to train an end-to-end navigation model, significantly improving the UAV's adaptability in complex environments."
+excerpt: "<strong>Advisor:</strong> Prof. Jianshan Zhou <br/><br/><strong>Project Details:</strong> We propose a perception navigation framework based on micro drones for complex enclosed spaces without GPS and with extremely limited computing resources, which solves the problems of large environmental spatial cognitive delay and low trajectory generation efficiency caused by limited computing power of traditional drones in extremely narrow environments. Finally, the safe autonomous flight of micro unmanned aerial vehicles in unknown and complex environments was achieved."
 ---
