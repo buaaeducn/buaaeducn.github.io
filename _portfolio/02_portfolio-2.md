@@ -5,5 +5,5 @@ weight: 2
 permalink: 
 header:
   teaser: "alom.png" # Please ensure the image is placed in the images/ directory
-excerpt: "<strong>Advisor:</strong> Prof. Haiyang Yu <br/><br/> <strong>Project Details:</strong> In this project, I primarily researched and debugged end-to-end models such as BEVFormer and SparseBEV. I successfully addressed complex data loading and model configuration challenges for both the nuScenes dataset and a custom UAV dataset, achieving high-precision Bird's-Eye-View (BEV) perception and control.<br/><br/> <a href='https://github.com/your-username/your-repo' target='_blank'><strong>[Code]</strong></a>"
+excerpt: "<strong>Advisor:</strong> Prof. Haiyang Yu <br/><br/> <strong>Project Details:</strong> In this project, I implemented the A-LOAM framework for high-precision 3D map construction and real-time localization. Using ROS and Velodyne LiDAR, I successfully conducted multi-scenario mapping experiments based on edge and planar feature extraction, achieving robust spatial awareness for autonomous systems."
 ---

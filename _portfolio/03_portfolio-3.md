@@ -5,5 +5,5 @@ weight: 1
 permalink: 
 header:
   teaser: "uav.png" # Please ensure the image is placed in the images/ directory
-excerpt: "<strong>Advisor:</strong> Prof. Jianshan Zhou <br/><br/> <strong>Project Details:</strong> In this project, I primarily researched and debugged end-to-end models such as BEVFormer and SparseBEV. I successfully addressed complex data loading and model configuration challenges for both the nuScenes dataset and a custom UAV dataset, achieving high-precision Bird's-Eye-View (BEV) perception and control.<br/><br/> <a href='https://github.com/your-username/your-repo' target='_blank'><strong>[Code]</strong></a>"
+excerpt: "<strong>Project Details:</strong> In this project, We developed a bio-inspired autonomous navigation framework for small UAVs in GPS-denied enclosed spaces. The core innovation lies in integrating the RatSLAM algorithm with spatial memory matrices to achieve robust spatial cognition. Additionally, we constructed a custom flight dataset through autonomous exploration to train an end-to-end navigation model, significantly improving the UAV's adaptability in complex environments."
 ---
