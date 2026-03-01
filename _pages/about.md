@@ -21,15 +21,17 @@ Secondary Email: [1832541406@qq.com](mailto:1832541406@qq.com)
 
 ---
 
+<h2 id="education" style="padding-top: 80px; margin-top: -80px;">Education</h2>
+* **B.E. in Intelligent Transportation Engineering**, Beihang University, *2023.06 – Present*
+  * School of Transportation Science and Engineering
+
+---
+
 <h2 id="projects" style="padding-top: 80px; margin-top: -80px;">Projects</h2>
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-<h2 id="teaching" style="padding-top: 80px; margin-top: -80px;">Teaching Experience</h2>
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
 
 <h2 id="awards" style="padding-top: 80px; margin-top: -80px;">Awards</h2>
 * **Third Prize**, The 34th "Feng Ru Cup" Competition (Creativity Track), Beihang University, *2025*
