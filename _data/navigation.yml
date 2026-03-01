@@ -11,12 +11,12 @@
 main:
   - title: "About Me"
     url: /
-    
-  - title: "Projects"
-    url: /#projects
 
   - title: "Education"
-    url: /#education
+    url: /#education  
+
+  - title: "Projects"
+    url: /#projects
 
   - title: "Awards"
     url: /#awards
